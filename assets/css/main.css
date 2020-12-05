@@ -1303,6 +1303,7 @@ input, select, textarea {
 			}
 
 		#header .content {
+			padding: 40px;
 			border-style: solid;
 			border-color: #ffffff;
 			border-top-width: 1px;
