@@ -5,6 +5,7 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.bigsur_1.0.2_iphoneos-arm.deb
+Icon: https://22shaho.github.io/img/proj/macOS-Big-Sur/icons/macOS-Big-Sur_Icon.png
 Size: 9892904
 Installed-Size: 9892904
 MD5sum: 63c1805a920a0d6a30a72bbdc39ced6b
