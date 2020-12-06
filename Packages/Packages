@@ -27,3 +27,18 @@ Description: An example package for testing out our personal Cydia repository
 Name: ExampleTweak
 Author: shaho <m.shaho@icloud.com>
 Depiction: https://22shaho.github.io/depictions/?p=com.mdausch.exampletweak
+
+Package: com.alt.bigsur
+Version: 0.0.2-2+debug
+Section: Themes
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.alt.bigsur_1.0.1_iphoneos-arm.deb
+Size: 1702
+Installed-Size: 104
+MD5sum: 31301ab1bffd3af1d89979569cca8132
+Description: An example package for testing out our personal Cydia repository
+Name: ExampleTweak
+Author: shaho <m.shaho@icloud.com>
+Depiction: https://22shaho.github.io/depictions/?p=com.mdausch.exampletweak
