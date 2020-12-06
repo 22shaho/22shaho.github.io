@@ -1,17 +1,17 @@
 <package>
-	<id>com.shaho.bigsur</id>
-	<name>macOS Big Sur</name>
-    <version>1.0</version>
+	<id>com.shaho.lacatalina</id>
+	<name>lacatalina</name>
+    <version>0.4~beta</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>10.0</miniOS>
 			<otherVersions>unconformed</otherVersions>
 		</firmware>
 	</compatibility>
     <dependencies></dependencies>
-	<shortDescription>MacOS Big Sur Icons for iOS</shortDescription>
+	<shortDescription>MacOS Catalina icons for iOS</shortDescription>
 	<descriptionlist>
-		<description>This theme ports over the MacOS Big Sur icons to iOS</description>
+		<description>this theme ports over the macOS Catalina icons to iOS</description>
 <!--		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
@@ -29,7 +29,7 @@
 		</screenshot>
 	</screenshots> -->
 	<changelog>
-		<change>null</change>
+		<change>beta</change>
 	</changelog>
 	<links>
 		<link>

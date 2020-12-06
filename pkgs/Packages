@@ -11,45 +11,28 @@ Installed-Size: 9892904
 MD5sum: 63c1805a920a0d6a30a72bbdc39ced6b
 SHA1: 9e4aace26d9fca116f8a2237ef630a5ab2a2178a
 SHA256: a0ae5a498043abd0c92a113cf40709c077538bd925ea044a3bf79342d09d3286
-Description: MacOS Big Sur Icons for iOS
+Description: macOS Big Sur icons for iOS
 Name: macOS Big Sur
 Author: shaho <m.shaho@icloud.com>
 Depiction: https://22shaho.github.io/depictions/?p=com.shaho.bigsur
 
-Package: org.mr.shuffle
-Version: 1.2.9
-Section: Tweaks
-Maintainer: CreatureSurvive
-Depends: mobilesubstrate
+Package: com.shaho.lacatalina
+Version: 0.4~beta
+Section: Themes
+Maintainer: shaho <m.shaho@icloud.com>
+Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: .//debs/org.mr.shuffle_1.2.9_iphoneos-arm.deb
-Size: 226196
-Installed-Size: 226196
-MD5sum: 91163c09e83d78573c116404b35e2e8a
-SHA1: cbb9a304a54b7bb4c7f37de34ec9372dd69b438f
-SHA256: 246b1db07e1194bac582d3d714dcd924a064fa281c2014eb8393fa8a2296e2d3
-Description: shuffle organizes your settings into easier to navigate sections.
-Name: Shuffle
-Author: CreatureSurvive
-Depiction: https://22shaho.github.io/depictions/?p=org.mr.shuffle
-
-Package: com.vladofficial.blankpass
-Version: 1.0
-Section: Tweaks
-Maintainer: VladGeek
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//debs/com.vladofficial.blankpass_1.0_iphoneos-arm.deb
-Size: 3160
-Installed-Size: 3160
-MD5sum: aaa7cf374ea831dc6c3206c9b6048b96
-SHA1: 1aa18f1d04018a6c8b7351011dd3fc45b422c9fb
-SHA256: 1e9df2cb9e3f2c5a25c9c6be27724c9c047fa831971910a8077f3e5c0e3776e9
-Description: blank passcode buttons on the lockscreen
-Name: blankpass
-Author: ValdGeek
-Depiction: https://22shaho.github.io/depictions/?p=com.vladofficial.blankpass
-
+Filename: .//debs/com.shaho.lacatalina_0.4~beta_iphoneos-arm.deb
+Icon: https://22shaho.github.io/img/proj/macOS-lacatalina/icons/macOS-Catalina_Icon.png
+Size: 9194048
+Installed-Size: 9194048
+MD5sum: 15d30827fd1672ce35428130e79efd60
+SHA1: 00951bacd153d681be17dd2db936a50351b19581
+SHA256: 139c90497f7717e8438f6c0a3d69425d31e2851fc82fcfb279b584d579f4e969
+Description: macOS Catalina icons for iOS
+Name: lacatalina
+Author: shaho <m.shaho@icloud.com>
+Depiction: https://22shaho.github.io/depictions/?p=com.shaho.lacatalina
 
 Package: com.mdausch.exampletweak
 Version: 0.0.2-2+debug

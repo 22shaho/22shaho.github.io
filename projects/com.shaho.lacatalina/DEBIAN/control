@@ -1,0 +1,9 @@
+Package: com.shaho.lacatalina
+Name: lacatalina
+Version: 0.4~beta
+Architecture: iphoneos-arm
+Description: macOS Catalina icon design in your iOS deivce.
+Author: shaho
+Maintainer: shaho
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
