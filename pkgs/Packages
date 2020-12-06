@@ -15,6 +15,41 @@ Name: macOS Big Sur
 Author: shaho <m.shaho@icloud.com>
 Depiction: https://22shaho.github.io/depictions/?p=com.shaho.bigsur
 
+Package: org.mr.shuffle
+Version: 1.2.9
+Section: Tweaks
+Maintainer: CreatureSurvive
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//org.mr.shuffle_1.2.9_iphoneos-arm.deb
+Size: 226196
+Installed-Size: 226196
+MD5sum: 91163c09e83d78573c116404b35e2e8a
+SHA1: cbb9a304a54b7bb4c7f37de34ec9372dd69b438f
+SHA256: 246b1db07e1194bac582d3d714dcd924a064fa281c2014eb8393fa8a2296e2d3
+Description: shuffle organizes your settings into easier to navigate sections.
+Name: Shuffle
+Author: CreatureSurvive
+Depiction: https://22shaho.github.io/depictions/?p=org.mr.shuffle
+
+Package: com.vladofficial.blankpass
+Version: 1.0
+Section: Tweaks
+Maintainer: VladGeek
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.vladofficial.blankpass_1.0_iphoneos-arm.deb
+Size: 3160
+Installed-Size: 3160
+MD5sum: aaa7cf374ea831dc6c3206c9b6048b96
+SHA1: 1aa18f1d04018a6c8b7351011dd3fc45b422c9fb
+SHA256: 1e9df2cb9e3f2c5a25c9c6be27724c9c047fa831971910a8077f3e5c0e3776e9
+Description: blank passcode buttons on the lockscreen
+Name: blankpass
+Author: ValdGeek
+Depiction: https://22shaho.github.io/depictions/?p=com.vladofficial.blankpass
+
+
 Package: com.mdausch.exampletweak
 Version: 0.0.2-2+debug
 Section: Tweaks
