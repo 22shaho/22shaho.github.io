@@ -4,9 +4,9 @@ Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//debs/com.shaho.bigsur_1.0.1_iphoneos-arm.deb
-Size: 1702
-Installed-Size: 9719808
+Filename: .//debs/com.mdausch.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
+Size: 9719808
+Installed-Size: 105
 MD5sum: cfef2a03acf5eeee7c3e3f403868efea
 Description: MacOS Big Sur Icons for iOS
 Name: macOS Big Sur
@@ -25,5 +25,5 @@ Installed-Size: 104
 MD5sum: 31301ab1bffd3af1d89979569cca8132
 Description: An example package for testing out our personal Cydia repository
 Name: ExampleTweak
-Author: Maxwell Dausch <max.dausch@gmail.com>
-Depiction: https://mdausch.github.io/depictions/?p=com.mdausch.exampletweak
+Author: shaho <m.shaho@icloud.com>
+Depiction: https://22shaho.github.io/depictions/?p=com.mdausch.exampletweak
