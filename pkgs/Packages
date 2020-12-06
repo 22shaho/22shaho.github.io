@@ -1,6 +1,6 @@
 Package: com.shaho.bigsur
 Version: 1.0
-Section: Themes
+Section: macOS themes
 Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -9,10 +9,7 @@ Size: 9719808
 Installed-Size: 9719808
 MD5sum: cfef2a03acf5eeee7c3e3f403868efea
 SHA1: 0f53fe0efe80203f0560a57ecb72c4a89b369970
-CRC32: 359075344
-SHA-256: 3d6388203313ffdad4afe2d3eafbef189add5d30efe36089397c470de61ff5b1
-SHA-512: a185192020992789b2803e18113d71bfa7828c6d7d80a9155d31bd85a49db43350df34e10686667b6efce61a17a6bc235489f504da85280502699a58e21249dc
-SHA-384: 83b95ed7399c908439a7e4a2dc1ab2ca0df7768d1ce3f40e36cabcfcccae73762093b14b412f34882d4c39e9482517e6
+SHA256: 3d6388203313ffdad4afe2d3eafbef189add5d30efe36089397c470de61ff5b1
 Description: MacOS Big Sur Icons for iOS
 Name: macOS Big Sur
 Author: shaho <m.shaho@icloud.com>
