@@ -2,7 +2,7 @@ Package: com.shaho.bigsur
 Version: 1.0.1
 Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.bigsur_1.0.1_iphoneos-arm.deb
 Size: 9719808
@@ -21,7 +21,7 @@ Section: Tweaks
 Maintainer: CreatureSurvive
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//org.mr.shuffle_1.2.9_iphoneos-arm.deb
+Filename: .//debs/org.mr.shuffle_1.2.9_iphoneos-arm.deb
 Size: 226196
 Installed-Size: 226196
 MD5sum: 91163c09e83d78573c116404b35e2e8a
@@ -38,7 +38,7 @@ Section: Tweaks
 Maintainer: VladGeek
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//com.vladofficial.blankpass_1.0_iphoneos-arm.deb
+Filename: .//debs/com.vladofficial.blankpass_1.0_iphoneos-arm.deb
 Size: 3160
 Installed-Size: 3160
 MD5sum: aaa7cf374ea831dc6c3206c9b6048b96
