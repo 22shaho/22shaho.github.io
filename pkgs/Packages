@@ -1,6 +1,6 @@
 Package: com.shaho.bigsur
-Version: 1.0
-Section: macOS themes
+Version: 1.0.1
+Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
