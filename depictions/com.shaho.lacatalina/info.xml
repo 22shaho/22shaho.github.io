@@ -18,16 +18,14 @@
 		]]>
 	</description> -->
 	</descriptionlist>
-<!--	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>smooth design and textures</description>
+			<image>depictions/com.shaho.lacatalina/lacatalina.png</image>
 		</screenshot>
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>rounded icons</description>
+			<image>depictions/com.shaho.lacatalina/lacatalina.png</image>
 		</screenshot>
-	</screenshots> -->
 	<changelog>
 		<change>beta</change>
 	</changelog>
