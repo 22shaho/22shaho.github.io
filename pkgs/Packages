@@ -4,7 +4,7 @@ Section: macOS themes
 Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//debs/com.mdausch.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
+Filename: .//debs/com.shaho.bigsur_1.0.1_iphoneos-arm.deb
 Size: 9719808
 Installed-Size: 9719808
 MD5sum: cfef2a03acf5eeee7c3e3f403868efea
