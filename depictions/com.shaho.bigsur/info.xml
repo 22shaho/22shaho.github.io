@@ -1,0 +1,41 @@
+<package>
+	<id>com.shaho.bigsur</id>
+	<name>macOS Big Sur</name>
+    <version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>MacOS Big Sur Icons for iOS</shortDescription>
+	<descriptionlist>
+		<description>This theme ports over the MacOS Big Sur icons to iOS</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+<!--	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots> -->
+	<changelog>
+		<change>null</change>
+	</changelog>
+	<links>
+		<link>
+			<name>instagram</name>
+			<url>https://www.instagram.com/shahoflame</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+	</links>
+</package>

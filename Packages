@@ -1,0 +1,14 @@
+Package: com.shaho.bigsur
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shaho
+Filename: ./debs/com.shaho.bigsur.deb
+Size: 9719808
+MD5sum: 7877d202a0fb998da39dcb2dc6e96c7f
+SHA1: e6af84eff704ce0f9bd1333bf244065b01a1a494
+SHA256: 0312f1b2d968aea7228d85c53ec84adb0b6d6da2a427c8530faea0f90efb7f9c
+Section: Themes
+Description: MacOS Big Sur Icons for iOS
+Author: shaho
+Depiction: https://22shaho.github.io/depictions/?p=com.shaho.bigsur
+Name: macOS Big Sur
