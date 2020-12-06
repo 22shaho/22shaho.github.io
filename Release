@@ -7,5 +7,5 @@ Architectures: iphoneos-arm
 Components: main
 Description: shaho
 MD5Sum:
- 1b1653e4a3b2cc33e77ce8fa6df04a57 2256 Packages
- 0d64e9c47fa9c2fd9e4d036c519250e5 1069 Packages.bz2
+ ed566e630fab28a310aff27de7089a5d 2256 Packages
+ 59fd9bd4810dc06684d3ac76d7476a4e 1065 Packages.bz2

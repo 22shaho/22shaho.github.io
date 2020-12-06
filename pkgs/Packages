@@ -1,15 +1,15 @@
 Package: com.shaho.bigsur
-Version: 1.0.1
+Version: 1.0.2
 Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: .//debs/com.shaho.bigsur_1.0.1_iphoneos-arm.deb
-Size: 9719808
-Installed-Size: 9719808
-MD5sum: cfef2a03acf5eeee7c3e3f403868efea
-SHA1: 0f53fe0efe80203f0560a57ecb72c4a89b369970
-SHA256: 3d6388203313ffdad4afe2d3eafbef189add5d30efe36089397c470de61ff5b1
+Filename: .//debs/com.shaho.bigsur_1.0.2_iphoneos-arm.deb
+Size: 9892904
+Installed-Size: 9892904
+MD5sum: 63c1805a920a0d6a30a72bbdc39ced6b
+SHA1: 9e4aace26d9fca116f8a2237ef630a5ab2a2178a
+SHA256: a0ae5a498043abd0c92a113cf40709c077538bd925ea044a3bf79342d09d3286
 Description: MacOS Big Sur Icons for iOS
 Name: macOS Big Sur
 Author: shaho <m.shaho@icloud.com>

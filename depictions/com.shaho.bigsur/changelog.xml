@@ -1,6 +1,18 @@
 <changelog>
+
+	<changes>
+		<version>1.0.2</version>
+		<change>updated textures for iphoneos.</change>
+	</changes>
+
+	<changes>
+		<version>1.0.1</version>
+		<change>settings icons, badages, new icons added <br> bug fixes and more.</change>
+	</changes>
+
 	<changes>
 		<version>1.0</version>
 		<change>intial release</change>
 	</changes>
+
 </changelog>
