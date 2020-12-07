@@ -4,10 +4,6 @@
 .flame {
 	width: 5.5rem;
 	height: 5.5rem;
-	line-height: 5.5rem;
-	border: solid 1.5px #ffffff;
-	border-radius: 28%;
-}
 }
 
 html, body, div, span, applet, object,
