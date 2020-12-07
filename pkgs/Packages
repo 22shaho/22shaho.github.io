@@ -35,18 +35,18 @@ Author: shaho <m.shaho@icloud.com>
 Depiction: https://22shaho.github.io/depictions/?p=com.shaho.lacatalina
 
 Package: com.shaho.windows10
-Version: 0.2~beta
+Version: 0.3~beta1
 Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
-Depends: mobilesubstrate, com.spark.snowboard
+Depends: com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: .//debs/com.shaho.windows10_0.2~beta_iphoneos-arm.deb
+Filename: .//debs/com.shaho.windows10_0.3~beta1_iphoneos-arm.deb
 Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/MS-Windows10/icons/MS-Windows10_Icon.png
-Size: 3366436
-Installed-Size: 3366436
-MD5sum: 14f1dda7093617c20fe49eaabe791dda
-SHA1: 1e2a15fdeefb7c66f196e2db6a1b182211ca5c06
-SHA256: 6ea200c182ed4ccdae4598b4a256a99b03c597e2c3a5ee9fa73e9944479225c3
+Size: 3403044
+Installed-Size: 3403044
+MD5sum: 22c4973baf6186e4c1dd706c26ea9cd9
+SHA1: 37db60258b33a280360fcd3faf9d15939c599028
+SHA256: 39795075dacb5d47f47e01eeb150a41e9564576005fa5498045504ace7bcdd38
 Description: MS-Windows 10 icons for iOS
 Name: MS-Windows10
 Author: shaho <m.shaho@icloud.com>
