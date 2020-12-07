@@ -1,0 +1,39 @@
+<package>
+	<id>com.shaho.windows10</id>
+	<name>MS-Windows10</name>
+    <version>0.2~beta</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>Microsoft Windows 10 icons for iOS</shortDescription>
+	<descriptionlist>
+		<description>this theme ports over the MS-Windows10 icons to iOS</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+		<screenshot>
+			<description>smooth design and textures</description>
+			<image>depictions/com.shaho.lacatalina/win1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>square icons</description>
+			<image>depictions/com.shaho.lacatalina/win2.png</image>
+		</screenshot>
+	<changelog>
+		<change>beta</change>
+	</changelog>
+	<links>
+		<link>
+			<name>instagram</name>
+			<url>https://www.instagram.com/shahoflame</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+	</links>
+</package>
