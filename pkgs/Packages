@@ -5,7 +5,7 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.bigsur_1.0.2_iphoneos-arm.deb
-Icon: https://22shaho.github.io/img/proj/macOS-Big-Sur/icons/macOS-Big-Sur_Icon.png
+Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/icons/macOS-Big-Sur_Icon.png
 Size: 9892904
 Installed-Size: 9892904
 MD5sum: 63c1805a920a0d6a30a72bbdc39ced6b
@@ -23,7 +23,7 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.lacatalina_0.4~beta_iphoneos-arm.deb
-Icon: https://22shaho.github.io/img/proj/macOS-lacatalina/icons/macOS-Catalina_Icon.png
+Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Catalina/icons/macOS-Catalina_Icon.png
 Size: 9194048
 Installed-Size: 9194048
 MD5sum: 15d30827fd1672ce35428130e79efd60
@@ -41,7 +41,7 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.windows10_0.2~beta_iphoneos-arm.deb
-Icon: https://22shaho.github.io/img/proj/MS-Windows10/icons/MS-Windows10_Icon.png
+Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/MS-Windows10/icons/MS-Windows10_Icon.png
 Size: 3366436
 Installed-Size: 3366436
 MD5sum: 14f1dda7093617c20fe49eaabe791dda
@@ -51,6 +51,24 @@ Description: MS-Windows 10 icons for iOS
 Name: MS-Windows10
 Author: shaho <m.shaho@icloud.com>
 Depiction: https://22shaho.github.io/depictions/?p=com.shaho.windows10
+
+Package: com.shaho.respring
+Version: 1.0
+Section: Themes
+Maintainer: shaho <m.shaho@icloud.com>
+Depends: mobilesubstrate, com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: .//debs/com.shaho.respring_1.0_iphoneos-arm.deb
+Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/Respring/icons/respring.png
+Size: 697314
+Installed-Size: 697314
+MD5sum: 3414a9daef0c91489d408d2b259cea72
+SHA1: f4ff289ff6f534434f1d8d5c5530e9ea26dc8567
+SHA256: 8dcaaea95e37b9367c41b9477e4e0230e4fe79ba70086388726df562e3dcdb2f
+Description: shaho.sh respring logo
+Name: .sh respring
+Author: shaho <m.shaho@icloud.com>
+Depiction: https://22shaho.github.io/depictions/?p=com.shaho.respring
 
 Package: com.mdausch.exampletweak
 Version: 0.0.2-2+debug
