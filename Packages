@@ -6,8 +6,8 @@ Depends: com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.bigsur_1.0.3_iphoneos-arm.deb
 Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/icons/macOS-Big-Sur_Icon.png
-Size: 9892904
-Installed-Size: 9892904
+Size: 10250352
+Installed-Size: 10250352
 MD5sum: 79950623da5d5710480ea6f98b3f25ff
 SHA1: 5ee6a63bf39dd5cdb796453ada4c270f20681e3a
 SHA256: 700b0af0688555868d25bf7cbf4d52ccd3df25130fd411f33d1d756ba55c0afa
