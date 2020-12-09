@@ -1,40 +1,49 @@
-<package>
-	<id>com.shaho.bigsur</id>
-	<name>macOS Big Sur</name>
-    <version>1.0</version>
+<packageInfo>
+    <bundleId>com.shaho.bigsur</bundleId>
+    <name>macOS Big Sur</name>
+    <version>1.0.3</version>
+		<packageTitle>macOS Big Sur</packageTitle>
+
+    <descriptions>
+        <description>MacOS Big Sur Icons for iOS</description>
+    </descriptions>
 	<compatibility>
-		<firmware>
-			<miniOS>7.0</miniOS>
-			<otherVersions>unconformed</otherVersions>
-		</firmware>
+		<miniOS>11.0</miniOS>
+        <maxiOS>latest iOS</maxiOS>
 	</compatibility>
-    <dependencies></dependencies>
-	<shortDescription>MacOS Big Sur Icons for iOS</shortDescription>
-	<descriptionlist>
-		<description>This theme ports over the MacOS Big Sur icons to iOS</description>
-<!--		<description><![CDATA[
-		You can also have<br/>
-		a multi-line item.
-		]]>
-	</description> -->
-	</descriptionlist>
-		<screenshot>
-			<description>macOS Big Sur neuromorphic design</description>
-			<image>https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/screenshots/bigsur2.png</image>
-		</screenshot>
-		<screenshot>
-			<description>settings app icons</description>
-			<image>https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/screenshots/bigsur3.png</image>
-		</screenshot>
+	<dependencies>
+		<dependency>mobilesubstrate</dependency>
+		<dependency>SnowBoard</dependency>
+	</dependencies>
 	<changelog>
-		<change>the latest version contains bug fixes and performance improvements.</change>
-		<change>added 5 new icons.</change>
+        <change>
+            <changeVersion>V1.3 Beta 1</changeVersion>
+            <changeDescription>Fixed a small visual issue with the masks setting</changeDescription>
+        </change>
+        <change>
+            <changeVersion>1.0.1</changeVersion>
+            <changeDescription>Update for iOS 14.0 - 14.2</changeDescription>
+            <changeDescription>Fixed text size of springboard calender icon date and day</changeDescription>
+        </change>
+				    <change>
+            <changeVersion>1.0.0</changeVersion>
+            <changeDescription>intial release</changeDescription>
+        </change>
 	</changelog>
-	<links>
-		<link>
-			<name>instagram</name>
-			<url>https://www.instagram.com/shahoflame</url>
-			<iconclass>fa fa-instagram</iconclass>
-		</link>
-	</links>
-</package>
+	<screenshots>
+        <screenshot1>
+          <Image>
+            <img src="../img/proj/macOS-Big-Sur/screenshots/bigsur2"/>
+          </Image>
+        </screenshot1>
+        <screenshot2>
+          <Image>
+            <img src="../img/proj/macOS-Big-Sur/screenshots/bigsur3"/>
+          </Image>
+        </screenshot2>
+        </screenshots>
+<links>
+ <link1></link1>
+</links>
+	</changelog>
+</packageInfo>
