@@ -1,0 +1,9 @@
+Package: com.shaho.windows10
+Name: MS-Windows10
+Version: 0.0~beta
+Architecture: iphoneos-arm
+Description: MS-Windows10 icons
+Author: shaho
+Maintainer: shaho
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
