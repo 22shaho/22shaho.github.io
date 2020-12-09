@@ -1,16 +1,16 @@
 Package: com.shaho.bigsur
-Version: 1.0.2
+Version: 1.0.3
 Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
-Depends: mobilesubstrate, com.spark.snowboard
+Depends: com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: .//debs/com.shaho.bigsur_1.0.2_iphoneos-arm.deb
+Filename: .//debs/com.shaho.bigsur_1.0.3_iphoneos-arm.deb
 Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/icons/macOS-Big-Sur_Icon.png
 Size: 9892904
 Installed-Size: 9892904
-MD5sum: 63c1805a920a0d6a30a72bbdc39ced6b
-SHA1: 9e4aace26d9fca116f8a2237ef630a5ab2a2178a
-SHA256: a0ae5a498043abd0c92a113cf40709c077538bd925ea044a3bf79342d09d3286
+MD5sum: 79950623da5d5710480ea6f98b3f25ff
+SHA1: 5ee6a63bf39dd5cdb796453ada4c270f20681e3a
+SHA256: 700b0af0688555868d25bf7cbf4d52ccd3df25130fd411f33d1d756ba55c0afa
 Description: macOS Big Sur icons for iOS
 Name: macOS Big Sur
 Author: shaho <m.shaho@icloud.com>
@@ -20,7 +20,7 @@ Package: com.shaho.lacatalina
 Version: 0.4~beta
 Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
-Depends: mobilesubstrate, com.spark.snowboard
+Depends: com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.lacatalina_0.4~beta_iphoneos-arm.deb
 Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Catalina/icons/macOS-Catalina_Icon.png

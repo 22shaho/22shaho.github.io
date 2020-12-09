@@ -1,8 +1,9 @@
 Package: com.shaho.bigsur
 Name: macOS Big Sur
-Version: 1.0.1
-Section: Themes
+Version: 1.0.2
 Architecture: iphoneos-arm
-Auther: Shaho
+Description: new macOS Big Sur neuromorphic design in your iOS deivce.
+Author: shaho
 Maintainer: shaho
-Description:feel the new macOS Big Sur neuromorphic design in your iOS deivce.
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard

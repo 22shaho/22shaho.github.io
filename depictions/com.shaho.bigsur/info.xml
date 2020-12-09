@@ -20,14 +20,15 @@
 	</descriptionlist>
 		<screenshot>
 			<description>macOS Big Sur neuromorphic design</description>
-			<image>depictions/com.shaho.bigsur/bigsur2.png</image>
+			<image>https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/screenshots/bigsur2.png</image>
 		</screenshot>
 		<screenshot>
 			<description>settings app icons</description>
-			<image>depictions/com.shaho.bigsur/bigsur3.png</image>
+			<image>https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/screenshots/bigsur3.png</image>
 		</screenshot>
 	<changelog>
-		<change>updated textures for iphoneos</change>
+		<change>the latest version contains bug fixes and performance improvements.</change>
+		<change>added 5 new icons.</change>
 	</changelog>
 	<links>
 		<link>

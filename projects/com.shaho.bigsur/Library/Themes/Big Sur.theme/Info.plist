@@ -16,9 +16,9 @@
 		<key>TextColor</key>
 		<string>#FFFFFF</string>
 		<key>FontSize</key>
-		<real>9.0</real>
+		<real>7.0</real>
 		<key>TextYoffset</key>
-	  	<real>-3</real>
+	  	<real>-2</real>
 	</dict>
 	<key>IB-MaskIcons</key>
 	<true/>

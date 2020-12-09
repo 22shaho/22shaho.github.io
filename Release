@@ -1,11 +1,11 @@
 Origin: shaho
 Label: shaho
 Suite: stable
-Version: 6.1
+Version: 2.2
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
 Description: shaho
 MD5Sum:
- c2a01ff16f4142bf295b449800414204 3379 Packages
- 0baa58c3caf6149fa411e6b7db41869c 1257 Packages.bz2
+ eaa360ec20d58d1fe61d06f0cbbc0004 3345 Packages
+ ee7d4bfbf07373ee44d182da609ddec2 1257 Packages.bz2

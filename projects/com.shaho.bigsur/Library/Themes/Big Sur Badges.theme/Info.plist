@@ -9,7 +9,7 @@
 		<key>FontSize</key>
 		<integer>12</integer>
 		<key>TextColor</key>
-		<string>#FFFFFF</string>
+		<string>#000000</string>
 		<key>TextXoffset</key>
 		<real>0.000000</real>
 		<key>TextYoffset</key>
