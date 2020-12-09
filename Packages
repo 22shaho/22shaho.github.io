@@ -14,7 +14,7 @@ SHA256: 700b0af0688555868d25bf7cbf4d52ccd3df25130fd411f33d1d756ba55c0afa
 Description: macOS Big Sur icons for iOS
 Name: macOS Big Sur
 Author: shaho <m.shaho@icloud.com>
-Depiction: https://22shaho.github.io/depictions/?p=com.shaho.bigsur
+Depiction: https://22shaho.github.io/depictions/com.shaho.bigsur/index.html
 
 Package: com.shaho.lacatalina
 Version: 0.4~beta
@@ -32,7 +32,7 @@ SHA256: 139c90497f7717e8438f6c0a3d69425d31e2851fc82fcfb279b584d579f4e969
 Description: macOS Catalina icons for iOS
 Name: lacatalina
 Author: shaho <m.shaho@icloud.com>
-Depiction: https://22shaho.github.io/depictions/?p=com.shaho.lacatalina
+Depiction: https://22shaho.github.io/depictions/com.shaho.lacatalina/index.html
 
 Package: com.shaho.windows10
 Version: 0.3~beta2
@@ -50,7 +50,7 @@ SHA256: 36c651fee443c8f697b002f2ffde4667ac349b53e20690f32271ab3e758aab4b
 Description: MS-Windows 10 icons for iOS
 Name: MS-Windows10
 Author: shaho <m.shaho@icloud.com>
-Depiction: https://22shaho.github.io/depictions/?p=com.shaho.windows10
+Depiction: https://22shaho.github.io/depictions/com.shaho.windows10/index.html
 
 Package: com.shaho.respring
 Version: 1.0
@@ -68,19 +68,4 @@ SHA256: 8dcaaea95e37b9367c41b9477e4e0230e4fe79ba70086388726df562e3dcdb2f
 Description: shaho.sh respring logo
 Name: .sh respring
 Author: shaho <m.shaho@icloud.com>
-Depiction: https://22shaho.github.io/depictions/?p=com.shaho.respring
-
-Package: com.mdausch.exampletweak
-Version: 0.0.2-2+debug
-Section: Tweaks
-Maintainer: Maxwell Dausch <max.dausch@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//debs/com.mdausch.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
-Size: 1702
-Installed-Size: 104
-MD5sum: 31301ab1bffd3af1d89979569cca8132
-Description: An example package for testing out our personal Cydia repository
-Name: ExampleTweak
-Author: shaho <m.shaho@icloud.com>
-Depiction: https://22shaho.github.io/depictions/?p=com.mdausch.exampletweak
+Depiction: https://22shaho.github.io/depictions/com.shaho.respring/index.html
