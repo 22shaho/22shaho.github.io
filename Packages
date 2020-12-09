@@ -40,7 +40,7 @@ Section: Themes
 Maintainer: shaho <m.shaho@icloud.com>
 Depends: com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: .//debs/com.shaho.windows10_0.3~beta2_iphoneos-arm.deb
+Filename: .//debs/com.shaho.windows10_0.3_iphoneos-arm.deb
 Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/MS-Windows10/icons/MS-Windows10_Icon.png
 Size: 3403058
 Installed-Size: 3403058
