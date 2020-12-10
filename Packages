@@ -5,7 +5,6 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.bigsur_1.0.3_iphoneos-arm.deb
-Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Big-Sur/icons/macOS-Big-Sur_Icon.png
 Size: 10250352
 Installed-Size: 10250352
 MD5sum: 79950623da5d5710480ea6f98b3f25ff
@@ -23,7 +22,6 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.lacatalina_0.4~beta_iphoneos-arm.deb
-Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/macOS-Catalina/icons/macOS-Catalina_Icon.png
 Size: 9194048
 Installed-Size: 9194048
 MD5sum: 15d30827fd1672ce35428130e79efd60
@@ -41,7 +39,6 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.windows10_0.3_iphoneos-arm.deb
-Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/MS-Windows10/icons/MS-Windows10_Icon.png
 Size: 3403058
 Installed-Size: 3403058
 MD5sum: 18aefd87c75352231e3de8aa2fd33bd9
@@ -59,7 +56,6 @@ Maintainer: shaho <m.shaho@icloud.com>
 Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: .//debs/com.shaho.respring_1.0_iphoneos-arm.deb
-Icon: https://raw.githubusercontent.com/22shaho/22shaho.github.io/main/img/proj/Respring/icons/respring.png
 Size: 697314
 Installed-Size: 697314
 MD5sum: 3414a9daef0c91489d408d2b259cea72
@@ -69,3 +65,20 @@ Description: shaho.sh respring logo
 Name: .sh respring
 Author: shaho <m.shaho@icloud.com>
 Depiction: https://22shaho.github.io/depictions/com.shaho.respring/index.html
+
+Package: com.julioverne.spotilife
+Version: 1.3a
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.julioverne.spotilife_1.3a_iphoneos-arm.deb
+Size: 200062
+Installed-Size: 200062
+MD5sum: 3a13bc541b6b201cb38998051d06fcdf
+SHA1: 21d348783a662ceb791e27c7f6114f59e776a7a5
+SHA256: f80f1ba2cbfd492d77cec9adbe63c8974a8e17c51948b111647d9c9833bf68d2
+Description: Some Premium Features For Spotify
+Name: Spotilife
+Author: julioverne
+Depiction: https://22shaho.github.io/depictions/com.julioverne.spotilife/index.html
