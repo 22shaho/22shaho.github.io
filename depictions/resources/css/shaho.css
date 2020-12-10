@@ -1,0 +1,29 @@
+.pkg-view {
+   margin:9px;
+   padding:0 16px
+}
+
+.repo {
+  text-align: center;
+}
+
+
+
+
+body > panel > fieldset > div > table.information {
+	margin-left:34px;
+}
+
+body > panel > fieldset > div > table.information > tbody > tr > td {
+	padding-bottom: 5px;
+}
+
+body > panel > fieldset > div > table.information > tbody > tr:last-child > td {
+	padding-bottom: 0px;
+}
+
+body > panel > fieldset > div > table.information > tbody > tr > td.key {
+	color:#999;
+	padding-right:14px;
+	text-align:right;
+}

@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>add shaho's repo</title>
+<title>shaho's repo</title>
 <base target="_top">
 <link rel="stylesheet" type="text/css" href="depictions/resources/css/style.css"/>
+<link rel="stylesheet" type="text/css" href="depictions/resources/css/shaho.css"/>
+<link rel="icon" href="CydiaIcon.png" type="image/gif" sizes="16x16">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="format-detection" content="telephone=no">
 <script type="text/javascript" src="depictions/resources/js/thankssaurik.js"></script>
@@ -13,60 +15,91 @@
 <body class="pinstripe">
 <panel>
 
+  <div style="margin:9px;padding:0 16px">
 
+      <img src="CydiaIcon.png" style="position:absolute;vertical-align:middle" width="60" height="60">
 
-<label>shaho's repo</label>
+  <div style="padding-top:6px;margin-left:70px;text-align:center;display:block;height:60px">
 
-<fieldset>
-<div>
-<p>
-add <b>shaho</b>'s repo to:
-</p>
-</div>
+      <span style="font-size:20px" id="welcome">Welcome to flame<sup></sup></span>
+  <br>
+     <span style="font-size:17px" id="by">by <a href="http://www.22shaho.github.com/">Mohammed (shaho)</a></span>
+     </div>
+  </div>
+
+  <fieldset style="background-color:transparent">
+   <a href="https://instagram.com/shahoflame" class="left">
+
+   <img class="icon" src="depictions/resources/icons/instagram.png">
+
+   <div>
+     <div>
+       <label><p>shaho</p></label>
+     </div>
+   </div>
+ </a>
+
+   <a href="http://twitter.com/cantguardshaho" class="right">
+     <img class="icon" src="depictions/resources/icons/twitter.png">
+
+     <div>
+       <div>
+         <label>
+           <p>flame</p>
+         </label>
+       </div>
+     </div>
+   </a>
+  </fieldset>
+
+<label>add to:</label>
+
+<fieldset style="background-color:transparent">
 
 <!-- cydia -->
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://22shaho.github.io/" target="_blank">
-<img class="icon" src="depictions//resources/icons/cydia.png" width="58" height="58">
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://22shaho.github.io/" target="_blank" class="left">
+<img class="icon" src="depictions/resources/icons/cydia.png" width="58" height="58">
 <div>
 <div>
 <label>
-<p>add to <b>Cydia</b></p>
+<p><b>Cydia</b></p>
 </label>
 </div>
 </div>
 </a>
 
 <!-- sileo -->
-<a href="sileo://source/https://22shaho.github.io/" target="_blank">
+<a href="sileo://source/https://22shaho.github.io/" target="_blank" class="right">
 <img class="icon" src="depictions/resources/icons/sileo.png" width="58" height="58">
 <div>
 <div>
 <label>
-<p>add to Sileo</p>
+<p>Sileo</p>
 </label>
 </div>
 </div>
 </a>
 
+
 <!-- zebra -->
-<a href="zbra://sources/add/https://22shaho.github.io/" target="_blank">
+<a href="zbra://sources/add/https://22shaho.github.io/" target="_blank" class="left">
 <img class="icon" src="depictions/resources/icons/zebra.png" width="58" height="58">
 <div>
 <div>
 <label>
-<p>add to Zebra</p>
+<p>Zebra</p>
 </label>
 </div>
 </div>
 </a>
 
 <!-- installer -->
-<a href="installer://add/repo=https://22shaho.github.io/" target="_blank">
+<a href="installer://add/repo=https://22shaho.github.io/" target="_blank" class="right">
 <img class="icon" src="depictions/resources/icons/Installer.png" width="58" height="58">
 <div>
 <div>
 <label>
-<p>add to AppTapp Installer</p>
+<p>Installer</p>
 </label>
 </div>
 </div>
@@ -74,37 +107,41 @@ add <b>shaho</b>'s repo to:
 
 </fieldset>
 
-<block id="version"></block>
+<block>
+
+  <p>flame is a repository for "jailbroken" devices.</p>
+  <p>Themes, Tweaks, Untitles etc.</p>
+  <p>For help with jailbreaking, see <a href="http://www.reddit.com/r/jailbreak/">/r/jailbreak on reddit</a>.</p>
+
+</block>
+
+<block id="version" style="background-color:transparent"></block>
 
 <block>
-<input type="text" value="https://22shaho.gtihub.io" id="myInput">
-<a onclick="myFunction()">copy</a>
 
-<script>
-function myFunction() {
-  var copyText = document.getElementById("myInput");
-  copyText.select();
-  copyText.setSelectionRange(0, 99999)
-  document.execCommand("copy");
-  alert("now paste in your sources" );
-}
-</script>
+<input type="text" value="https://22shaho.gtihub.io"></input>
+
 </block>
-<label>contact me</label>
+<label>host your package</label>
+
 <fieldset>
-<a href="https://22shaho.github.io" target="_blank">
+<a href="https://22shaho.github.io/#contact" target="_blank">
 <img class="icon" src="depictions/resources/icons/site.png" width="58" height="58">
 <div>
 <div>
 <label>
-<p>Developer</p>
+<p>Contact the Host</p>
 </label>
 </div>
 </div>
 </a>
 </fieldset>
 
+		
+
 </panel>
+
+
 <script type="text/javascript" src="depictions/resources/js/iosver.js"></script>
 </body>
 </html>
